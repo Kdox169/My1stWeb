@@ -1,0 +1,45 @@
+p{
+    font-weight: bold;
+    font-size: 12px;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.how-to ol,
+.how-to ul {
+  list-style-position: inside;
+  padding-left: 0;
+  text-align: center;
+}
+
+.how-to li ul {
+    text-align: left;
+    list-style-position: inside;
+    margin-top: 10px;
+  }
+
+
+body{
+    background-color: rgb(142, 172, 149);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    border: 5px solid black;
+    margin: 30px;
+    padding: 50px;
+    
+}
+
+.centered-list{
+    padding-left: 0;
+    list-style-position: outside;
+    margin: 0 auto;
+    display: table;
+    text-align: left;
+}
+
+tableau{
+    text-align: center;
+    
+}
